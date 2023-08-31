@@ -6,7 +6,6 @@ name = "pypi"
 [packages]
 fastapi = "*"
 pywhispercpp = "*"
-pysubs2 = "*"
 uvicorn = "*"
 
 [dev-packages]
