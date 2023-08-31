@@ -1,6 +1,5 @@
 .idea
 models/
 __pycache__/
-Pipfile.lock
 .DS_Store
 
